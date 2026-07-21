@@ -8,9 +8,9 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=850&lines=Building+AI-powered+Applications;Large+Language+Models+(LLMs);Retrieval-Augmented+Generation+(RAG);AI+Agents+%7C+Machine+Learning;Always+Learning+Something+New"/>
 
 <p>
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge"/>
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?affiliations=OWNER&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=YSAQR&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/YSAQR?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/YSAQR?affiliations=OWNER&style=for-the-badge"/>
 </p>
 
 </div>
@@ -131,11 +131,11 @@ AI assistant capable of answering questions about resumes.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YSAQR&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YSAQR&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YSAQR&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -145,7 +145,7 @@ AI assistant capable of answering questions about resumes.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&column=7&margin-w=10&margin-h=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=YSAQR&theme=tokyonight&column=7&margin-w=10&margin-h=10"/>
 
 </div>
 
@@ -159,7 +159,7 @@ AI assistant capable of answering questions about resumes.
 
 # 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/YSAQR/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/YSAQR/YSAQR/output/github-contribution-grid-snake.svg"/>
 
 ---
 
