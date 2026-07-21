@@ -153,13 +153,13 @@ AI assistant capable of answering questions about resumes.
 
 # 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YSAQR&theme=tokyo-night"/>
 
 ---
 
 # 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/YSAQR/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
 
 ---
 
@@ -175,7 +175,7 @@ AI assistant capable of answering questions about resumes.
 <img src="https://img.icons8.com/color/48/gmail-new.png" width="48"/>
 </a>
 
-<a href="https://github.com/Yousef-SaQr">
+<a href="https://github.com/YSAQR">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
